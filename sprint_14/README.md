@@ -1,5 +1,5 @@
+# Обучение с учителем
 
-## A brief description of what this project does and who it's for
 
 #### Содержание
 1.  Подготовка данных  
